@@ -19,4 +19,4 @@ Roza's volunteers will be able to identify whether that species is found in thei
 			* This plot helps to visually see the users top OTU ID type on a focal perspective.
 			* ![dashboard.png](data/dashboard.png)
 		
-	* Once a different test volunteer is selected the plots and data will auto populate with their perspectivedata.
+	* Once a different test volunteer is selected the plots and data will auto populate with their perspective data.
